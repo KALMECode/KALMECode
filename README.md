@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML & CSS; JS; REACT; SASS; PYTHON</strong>
+  🦄 Linguagens: <strong>HTML & CSS; JS; REACT(EM PROGRESSO);</strong>
 </p>
 
 <p align="left">
